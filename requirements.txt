@@ -31,3 +31,4 @@ truststore==0.10.0
 urllib3_secure_extra==0.1.0
 webrtcvad==2.0.10
 xmlrpclib==1.0.1
+toml
